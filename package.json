@@ -88,7 +88,7 @@
     "onchange": "^6.1.0",
     "prettier": "^1.19.1",
     "recursive-readdir": "^2.2.2",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "ts-jest": "^24.2.0",
     "typedoc": "^0.15.3",
     "typescript": "^3.7.3",
