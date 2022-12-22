@@ -122,7 +122,7 @@
     "http-aws-es": "^6.0.0",
     "ip-anonymize": "^0.1.0",
     "ip-range-check": "^0.2.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "marked": "^0.7.0",
     "matcher": "^2.1.0",
     "maxmind": "^4.0.0",
